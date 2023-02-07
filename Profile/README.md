@@ -1,2 +1,2 @@
 # .github
-.README
+/Profile/README.md
